@@ -5,7 +5,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joslin-rashleigh-057b07314/?trk=opento_sprofile_details)
  email: joslinrashleigh@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: Polar bear liver contains such high levels of vitamin A that even a small amount can be lethal to humans.
+- ⚡ Fun fact: Polar bear liver contains such high levels of vitamin A that even a small amount can be lethal to humans
 
 <!---
 HastarTara/HastarTara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
