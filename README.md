@@ -2,7 +2,8 @@
 - 👀 I’m interested in: the intersection of data, creativity, finance, art
 - 🌱 I’m currently learning: AWS, SQL, python, terraform, github actions
 - 💞️ I’m looking to collaborate! New to the world of programming and big data, watch this space...
-- 📫 How to reach me: [Linkedin]([http://url-to-link](https://www.linkedin.com/in/joslin-rashleigh-057b07314/?trk=opento_sprofile_details)), email: joslinrashleigh@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joslin-rashleigh-057b07314/?trk=opento_sprofile_details)
+ email: joslinrashleigh@gmail.com
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: Polar bear liver contains such high levels of vitamin A that even a small amount can be lethal to humans.
 
