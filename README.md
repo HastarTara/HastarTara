@@ -2,7 +2,7 @@
 
 Artist getting stuck-in to Python, JS, APIs, LLMs and Data
 
-HMU ✨✨✨
+HMU 🔗joslinrashleigh@gmail.com ✨✨✨
 
 <!---
 HastarTara/HastarTara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
