@@ -1,6 +1,6 @@
 🎨✨🖌️💡🌱💻🔮🚀🌟💫🔥💪🏽🎶🎉🎧🕺🏾🌍⚡💥🧠🔧👾🎮🌈💖
 
-Artist getting stuck-in to Python, JS, APIs, LLMs and Data
+Artist getting stuck-in to Python, JS, Bash, APIs, LLMs, Data & Devops
 
 HMU 🔗joslinrashleigh@gmail.com ✨✨✨
 
