@@ -1,8 +1,8 @@
 🎨✨🖌️💡🌱💻🔮🚀🌟💫🔥💪🏽🎶🎉🎧🕺🏾🌍⚡💥🧠🔧👾🎮🌈💖
 
-Haven't committed recently as I've taken a temporary fulltime job but WATCH THIS SPACE! node-based AV tools incoming with shaders and DSP... it's going to be trippy!
+watch this space! artist/developer/late career changer always working on my chops...
 
-I am still open to work for programming roles
+I am still open to work for programming/IT roles
 
 🔗joslinrashleigh@gmail.com ✨✨✨
 
