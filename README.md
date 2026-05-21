@@ -7,8 +7,8 @@ I am still open to work for programming/IT roles
 🔗joslinrashleigh@gmail.com ✨✨✨
 
 
-error 404:
-your haiku could not be found.
+error 404:  
+your haiku could not be found.  
 try again later.
 
 <!---
